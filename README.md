@@ -3,8 +3,7 @@ Azure Fundamentals validates foundational knowledge of cloud services and how th
 
 # Azure in KeyNotes
 
-![Quality checks status](https://github.com/undergroundwires/Azure-in-bullet-points/workflows/Quality%20checks/badge.svg)
-- This repository contains my study notes for different Azure Fundamental - Microsoft Learn Examination Course.
+- This repository contains notes for Azure Fundamental - Microsoft Learn Examination Course.
 - The notes are comprehensive and written with goal of covering all key-hot topics.  
 - All the best & Happy Learning!
 
